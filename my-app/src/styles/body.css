@@ -1,0 +1,24 @@
+.wrapper-col{
+    display: flex;
+    flex-direction: row;
+    height: 75vh;
+    width: 75%;
+    border: 2px rgb(155, 132, 155) solid;
+    border-radius: 30px;
+    overflow: hidden;
+}
+.col{
+    height: 100%;
+    width: 50%;
+    
+}
+
+
+.wrapper-user{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    padding: 20px 0 20px 0;
+}
